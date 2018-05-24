@@ -12,7 +12,7 @@ E.g. for two blobs
 ```
 frame;x1,y1,w1,h1,C1;x2,y2,w2,h2,C2;
 ```
-where `frame` is the frame index, the blob descriptions are also spearated with `;` and the blob description gives the $$x$$ , $$y$$ coordinates and width, hegith. The label ob the blob can be `A` if abandoned or `S` if stolen.
+where `frame` is the frame index, the blob descriptions are also spearated with `;` and the blob description gives the x, y coordinates and width, hegith. The label ob the blob can be `A` if abandoned or `S` if stolen.
 
 ## Sources
 The test videos used in this data set are from the VISOR, AVSS2007 and PETS2006 sets.
